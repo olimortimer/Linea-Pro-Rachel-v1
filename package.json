@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Little0ne95"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olimortimer/Linea-Pro-Rachel-v1"
+  },
+  "name": "com.citronium.lineaprocdv.v2",
+  "version": "0.1.0",
+  "description": "LineaPro PhoneGap Plugin",
+  "cordova": {
+    "id": "com.citronium.lineaprocdv.v2",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ]
+}
